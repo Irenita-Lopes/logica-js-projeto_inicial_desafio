@@ -1,6 +1,7 @@
 Desafios do curso "Lógica de programação: mergulhe em programação com JavaScript" - Oracle One + Alura
 
 
+
 1- Mostre um alerta com a mensagem "Boas vindas ao nosso site!".
 
 2- Declare uma variável chamada nome e atribua a ela o valor "Lua".
@@ -20,6 +21,7 @@ Desafios do curso "Lógica de programação: mergulhe em programação com JavaS
 9- Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável idade.
 
 10 Agora, caso a idade seja maior ou igual que 18, exiba um alerta com a mensagem "Pode tirar a habilitação!".
+
 
 
 ***CSS e HTML importados da página do curso
